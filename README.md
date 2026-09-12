@@ -4,6 +4,26 @@ An assessment-ready computer vision pipeline implementing multi-object tracking 
 
 ---
 
+## 🚀 Live Demo
+
+Experience the interactive Streamlit showcase directly in your browser:
+
+👉 **[Launch Streamlit Live Demo](https://sports-multi-object-tracking-yolo11-bytetrack-3rmur2jmra7ixzbq.streamlit.app/)**
+
+Live Application URL:  
+[https://sports-multi-object-tracking-yolo11-bytetrack-3rmur2jmra7ixzbq.streamlit.app/](https://sports-multi-object-tracking-yolo11-bytetrack-3rmur2jmra7ixzbq.streamlit.app/)
+
+The web demo provides interactive access to the tracked match sequence, benchmark metrics, visual evidence gallery, and downloadable technical report.
+
+---
+
+## 🔗 Project Links
+
+- **GitHub Repository**: [https://github.com/Pramod-Ray/Sports-Multi-Object-Tracking-YOLO11-ByteTrack](https://github.com/Pramod-Ray/Sports-Multi-Object-Tracking-YOLO11-ByteTrack)
+- **Live Demo**: [https://sports-multi-object-tracking-yolo11-bytetrack-3rmur2jmra7ixzbq.streamlit.app/](https://sports-multi-object-tracking-yolo11-bytetrack-3rmur2jmra7ixzbq.streamlit.app/)
+
+---
+
 ## 1. Project Overview
 
 This project implements a complete, self-contained multi-object tracking pipeline tailored for team sports video footage (`input/football_video.mp4`). By combining the lightweight **YOLO11n** nano object detection architecture with the two-stage **ByteTrack** association algorithm, the pipeline localizes, identifies, and tracks individual football players across sequential video frames under CPU execution.
