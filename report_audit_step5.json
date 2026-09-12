@@ -1,0 +1,58 @@
+{
+  "total_frames": 1051,
+  "unique_track_ids": 18,
+  "max_simultaneous": 2,
+  "frames_with_tracks": 47,
+  "frames_with_zero_tracks": 1004,
+  "frames_multi_person": 8,
+  "longest_track_id": 1027,
+  "longest_track_duration": 15,
+  "shortest_multiframe_duration": 2,
+  "tracks_ge_10": 1,
+  "tracks_ge_30": 0,
+  "tracks_ge_60": 0,
+  "tracks_ge_100": 0,
+  "tracks_with_gaps_count": 1,
+  "tracks_with_gaps": {
+    "2680": [
+      [
+        1047,
+        1050,
+        2
+      ]
+    ]
+  },
+  "occlusion_events_count": 0,
+  "saved_screenshots": [
+    {
+      "filename": "1_multi_person_tracking.png",
+      "frame": 343,
+      "description": "Multiple tracked persons simultaneously (Frame 343)",
+      "path": "screenshots\\step5_tracking_quality\\1_multi_person_tracking.png"
+    },
+    {
+      "filename": "2_normal_tracking_frame.png",
+      "frame": 9,
+      "description": "Stable normal tracking frame (Frame 9)",
+      "path": "screenshots\\step5_tracking_quality\\2_normal_tracking_frame.png"
+    },
+    {
+      "filename": "3_detection_loss_recovery.png",
+      "frame": 1050,
+      "description": "Track recovery after temporary detection loss (Frame 1050)",
+      "path": "screenshots\\step5_tracking_quality\\3_detection_loss_recovery.png"
+    },
+    {
+      "filename": "4_later_continued_tracking.png",
+      "frame": 798,
+      "description": "Later frame showing persistent tracking (Frame 798)",
+      "path": "screenshots\\step5_tracking_quality\\4_later_continued_tracking.png"
+    },
+    {
+      "filename": "5_difficult_low_conf_tracking.png",
+      "frame": 10,
+      "description": "Difficult tracking situation: low confidence / distant player (Frame 10)",
+      "path": "screenshots\\step5_tracking_quality\\5_difficult_low_conf_tracking.png"
+    }
+  ]
+}
